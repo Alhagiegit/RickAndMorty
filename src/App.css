@@ -36,3 +36,34 @@
     transform: rotate(360deg);
   }
 }
+
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.loadflex{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.singleSkeleton{
+ margin: 10px;
+}
+
+.singleImg{
+  max-width: 350px;
+  margin: 10px;
+  background-color: gray;
+}
+.singleImg img{
+  border-radius: 10px;
+}
+
+.load{
+margin: auto;
+margin-top: 10%;
+}
+.center{
+  text-align: center;
+}
